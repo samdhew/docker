@@ -1,4 +1,4 @@
-# Dockerfile for Amazon Corretto 17 with Alpine
+# Dockerfile for NewRelic APM for Java
 
 This Dockerfile sets up a lightweight containerized environment based on Amazon Corretto 17 and Alpine Linux. It installs `curl` to facilitate downloading external resources and then downloads the NewRelic APM (Application Performance Monitoring) agent for Java.
 
