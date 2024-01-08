@@ -1,4 +1,4 @@
-# Dockerfile for Amazon Corretto 17 with Alpine
+# Dockerfile for Specific Software Version
 
 This Dockerfile sets up a lightweight containerized environment based on Amazon Corretto 17 and Alpine Linux. It installs specific versions of `curl` (8.3.0-r0) and `tzdata` (2023c-r0), sets the timezone to America/New_York, and displays the current date.
 
