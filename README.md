@@ -12,6 +12,7 @@ Explore a variety of Dockerfiles, including examples for:
 
 - Install specific software versions
 - Change the timezone of the container
+- Install NewRelic APM for Java
 
 Feel free to browse through the collection and select Dockerfiles that suit your specific requirements.
 
